@@ -61,8 +61,8 @@ function reiniciarjogo(){
 }
 
 function mensagemInicial(){
-    exibirNaTela('h1','Jogo  of secret');
-    exibirNaTela('p','Escolha o numero de 1 a 10');
+    exibirNaTela('h1','Tente acertar o número');
+    exibirNaTela('p','Escolha o numero de 1 a 20');
     
 }
 
